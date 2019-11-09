@@ -224,10 +224,10 @@ noise_shape = (1,1,100)
 num_steps = 10000
 batch_size = 64
 image_shape = None
-img_save_dir = "Z:/anime/output"
+img_save_dir = "C:/anime/output"
 save_model = True
 image_shape = (64,64,3)
-data_dir =  "Z:\\anime\\data\\*.png"
+data_dir =  "C:\\anime\\data\\*.png"
 
 log_dir = img_save_dir
 save_model_dir = img_save_dir
